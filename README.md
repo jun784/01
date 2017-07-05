@@ -1,3 +1,12 @@
+DEFINE : 0=∞=1
+
+int main(void) { 
+  return 0 
+};
+
+上記から始まる、
+インクルードする。
+
 # ZENOS - SOCIAL OPERATION SYSTEM
 
 ## Everything is void, everything is true. 
