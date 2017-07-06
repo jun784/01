@@ -1,12 +1,3 @@
-DEFINE : 0=∞=1
-
-int main(void) { 
-  return 0 
-};
-
-上記から始まる、
-インクルードする。
-
 # ZENOS - SOCIAL OPERATION SYSTEM
 
 ## Everything is void, everything is true. 
@@ -25,6 +16,10 @@ ZENOS is a framework and philosophy for creating and managing a new social struc
 また、この基本原則は河﨑純真が現代的に即した新しい価値共同体を作るために聖書、エホバの証人、東洋思想、禅、神道、科学哲学、資本主義またはValveの新入社員用マニュアルや山口揚平氏の著書を元に定義したものである。
 
 価値共同体とは、同じ価値観を持った人々で形成される集団のことである。
+
+# 前提
+
+prologによって、宗教を規定する
 
 # Keywords
 
@@ -116,3 +111,5 @@ ZENOS is a framework and philosophy for creating and managing a new social struc
 
 そのためZENOSを利用している社会ネットワークでは、全く異なる価値観を尊重しつつヘイトスピーチを排除する構造となっている。しかし、ZENOSを利用して作られた集団かつ排斥されていない集団のみが相互の尊重の対象となるので、それ以外のコミュニティに対する攻撃やヘイトスピーチを抑制するものではない。
 
+リファレンス：
+http://karel.tsuda.ac.jp/lec/prolog/intro/
