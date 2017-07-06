@@ -20,6 +20,7 @@ ZENOS is a framework and philosophy for creating and managing a new social struc
 # 前提
 
 prologによって、宗教を規定する
+- ロジバンも視野に入れる
 
 # Keywords
 
