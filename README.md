@@ -1,7 +1,11 @@
-# ZENOS - SOCIAL OPERATION SYSTEM
+# 01 - SOCIAL OPERATION SYSTEM
 
-## Everything is void, everything is true. 
+## 0 = 1
+## void ghost() { return true; }
+## Everything is void, Everything is true. 
+## あらゆることは空である。ゆえにあらゆることは正しい。
 
+ゆえに1を持つことが大事である。
 So you have to stand on a certain stance.
 
 ZENOSとは新しい社会構造体を創り、  
