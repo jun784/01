@@ -1,11 +1,9 @@
-# 01 - SOCIAL OPERATION SYSTEM
+# 0^0=1 - because you're god, so everyone is god.
 
-## 0^0 = 1
-## void ghost() { return true; }
 ## Everything is void, Everything is true. 
 ## あらゆることは空である。ゆえにあらゆることは正しい。
+## So you have to stand on a certain stance.
 ## ゆえに1を持つことが大事である。
-So you have to stand on a certain stance.
 
 ZEN OSとは新しい社会構造体を創り、  
 運営するために必要なフレームワークかつ哲学である。
