@@ -1,4 +1,13 @@
-# 0^0=1 - because you're god, so everyone is god.
+# 0^0=1 - because you're god, so everyone are god.
+
+## 一切皆空 - Everything is 0.
+## 諸行無常 - Exist is not exist. Exist is just a relationship of the 0.
+## 諸法無我 - I am not exist, I am just relationship.
+## 色即是空 - I am god, I am 1, because my mind makes sepalation of the relationships. worlds is just how i make sepalate to relationship.
+
+## who am i? - your just relationship, you can get who i am.
+## go to 0 - get enlightment.
+## set new i am - you set i am.
 
 ## Everything is void, Everything is true. 
 ## あらゆることは空である。ゆえにあらゆることは正しい。
